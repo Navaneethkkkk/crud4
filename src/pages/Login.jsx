@@ -22,6 +22,7 @@ function Login() {
   }
     return (
         <>
+  
           <div className="flex items-center justify-center h-screen bg-gray-100">
           <div className="w-full max-w-sm p-8 bg-white rounded-2xl shadow-lg">
             <h2 className="text-2xl font-bold text-center text-gray-800 mb-6">Login</h2>
